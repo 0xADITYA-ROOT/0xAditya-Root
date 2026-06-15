@@ -56,7 +56,7 @@
 
 <div align="center">
   <!-- Replace the links below with your real URLs/usernames -->
-<a href="mailto:akojh210273@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:akojha210273@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/+91-7347686414" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/0x.adityaroot?igsh=b2x3a2l5NjI3NWU3" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
