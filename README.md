@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" />
+  <img src="" width="420" />
 </div>
 
 <h1 align="center">Hi, I'm Aditya 👋</h1>
