@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" alt="Coding animation" />
 </div>
 
-<h1 align="center">Hi, I'm Aditya 👋</h1>
-<h3 align="center">Diploma in Electronic Engineering | Tech Learner | Builder</h3>
+<h1 align="center">Hi, I'm Aditya</h1>
+<h3 align="center">Electronics Student | Software Learner | Project Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Passionate+about+Tech+%26+Innovation;Learning+Python%2C+C%2B%2B%2C+Web+Development;Building+projects+that+solve+real+problems" alt="Typing SVG" />
@@ -17,17 +17,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Diploma student in Electronic Engineering  
-- 💻 Interested in programming, web development, and electronics projects  
+- 💻 Interested in programming, web development, embedded systems, and electronics projects  
 - 🧠 Currently improving my skills in Python, C, C++, HTML, and JavaScript  
-- 🛠️ I like building practical projects and learning by doing  
-- 🎯 Goal: become better every day and create useful tech solutions
+- 🛠️ I build practical projects to learn concepts deeply  
+- 🎯 Goal: become a strong developer who can combine electronics and software  
+- 📌 GitHub focus: clean projects, clear documentation, and consistent improvement
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,16 +43,35 @@
 
 ---
 
-## 📌 What I'm Working On
+## Featured Project
+
+<div align="center">
+  <a href="https://github.com/0xADITYA-ROOT/traffic-light-fsm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xADITYA-ROOT&repo=traffic-light-fsm&theme=tokyonight&hide_border=true" alt="Traffic Light FSM project" />
+  </a>
+</div>
+
+### Traffic Light FSM Simulator
+
+A browser-based traffic light controller that demonstrates finite state machine logic used in embedded systems.
+
+- Built with HTML, CSS, and JavaScript
+- Includes normal signal cycle, pedestrian request, emergency mode, and transition log
+- Runs without hardware, so anyone can test it directly in a browser
+
+---
+
+## What I'm Working On
 
 - Strengthening programming fundamentals  
 - Practicing web development projects  
 - Exploring electronics + software ideas  
 - Building a stronger GitHub portfolio
+- Writing better README files for every project
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xADITYA-ROOT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
@@ -68,15 +88,15 @@
 
 ---
 
-## 💡 Quote
+## Mindset
 
 <div align="center">
-  <p><b>“Build, learn, iterate — turn ideas into impact.”</b></p>
+  <p><b>Build small. Learn daily. Improve every project.</b></p>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="mailto:akojha210273@gmail.com" target="_blank">
@@ -93,5 +113,5 @@
 ---
 
 <div align="center">
-  <sub>Thanks for visiting my profile ✨</sub>
+  <sub>Thanks for visiting my profile. Keep building, keep learning.</sub>
 </div>
