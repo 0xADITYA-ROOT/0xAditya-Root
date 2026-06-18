@@ -75,15 +75,7 @@ A browser-based traffic light controller that demonstrates finite state machine 
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xADITYA-ROOT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=0xADITYA-ROOT&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xADITYA-ROOT&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xADITYA-ROOT&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </div>
 
 ---
